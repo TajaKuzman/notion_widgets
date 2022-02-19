@@ -117,7 +117,7 @@ var today = new Date();
 var custom_months = [ "januar", "februar", "marec", "april", "maj", "junij", "julij", "avgust", "september", "oktober", "november", "december" ];
     var custom_days = [ "pon", "tor", "sre", "čet", "pet", "sob", "ned" ];
     var date = today.getDate() + ". " + custom_months[ today.getMonth() ] + " " + custom_days[ today.getDay() ];
-    document.getElementById('date').innerHTML = today.toDateString();
+    document.getElementById('date').innerHTML = date.toDateString();
 }
 
 function clock() {
