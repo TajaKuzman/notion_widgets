@@ -7,4 +7,4 @@ I localised the Greetings widget (index.html) to Slovenian language.
 
 ![The Slovene Greeting Widget](/img/Slovene-Greetings-widget.png)
 
-To use it, embed the following link to your Notion page: [https://tajakuzman.github.io/notion_widgets/].
+To use it, embed the following link to your Notion page: (https://tajakuzman.github.io/notion_widgets/).
